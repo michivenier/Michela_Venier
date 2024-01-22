@@ -18,18 +18,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
-</div>
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/michivenier/count.svg?"  />
 </div>
@@ -45,8 +33,7 @@
 ###
 
 
-# Hi, I'm Michela! 👋 AAAAAAAA
-
+# Hi, I'm Michela! 👋
 
 ## 🚀 About Me
 I'm a biotechnologist and biologist curious about data analysis and manipulation in genome and bioinformatics projects!
@@ -62,6 +49,19 @@ I'm a biotechnologist and biologist curious about data analysis and manipulation
 - SQL
 - Python
 - Excel (yes excel!)
+
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
+</div>
 
 
 ## Roadmap
