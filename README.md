@@ -30,11 +30,10 @@ I'm a biotechnologist and biologist curious about data analysis and manipulation
 
 ## Roadmap
 
-- EPICODE: Venier Michela
+- ABOUT ME: michivenier
 
-- EPICODE: Consegne
-
-- ...
+- PERCORSO EPICODE:
+- 
 
 
 
