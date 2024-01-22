@@ -32,8 +32,9 @@ I'm a biotechnologist and biologist curious about data analysis and manipulation
 
 - ABOUT ME: michivenier
 
-- PERCORSO EPICODE:
-- 
+- EPICODE:
+  1.EPICODE_VenierMichela
+  2. https://github.com/michivenier/Consegna_EPICODE_UNIT1_Gruppo.Comico 
 
 
 
