@@ -5,5 +5,4 @@ Here are some ideas to get you started:
 
 - 🔭 Al momento sto lavorando su progetti didattici nell'ambito del corso DATA ANALYST EPICODE 
 - 🌱 Al momento sto imparando: excel, SQL e Python...prossimo in lista R!
-- 👯 Aperta allo scambio di opinioni e conoscenze tecniche sull'analisi di dati bioinformatici
--->
+- 👯 Aperta allo scambio di opinioni e conoscenze tecniche sull'analisi di dati bioinformatici!
