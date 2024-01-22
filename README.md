@@ -1,38 +1,3 @@
-<h1 align="center">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">My name is Michela Venier and I'm a Biotechnologist, Biologist and Junior Data Analyst</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since late 2023 ...<br>📚 I'm currently learning SQL and Python<br>🎯 Goals: Learning R</p>
-
-###
-
-<h2 align="left">I code with <br>- SQL<br>- Python</h2>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/michivenier/count.svg?"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="linkedin.com/in/michela-venier" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-
 # Hi, I'm Michela! 👋
 
 ## 🚀 About Me
