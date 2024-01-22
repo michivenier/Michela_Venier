@@ -52,19 +52,6 @@ Questo repository riguarda il mio viaggio di apprendimento della programmazione 
 🌱 Al momento sto imparando: excel, SQL e Python...prossimo in lista R!
 
 👯 Aperta allo scambio di opinioni e conoscenze tecniche sull'analisi di dati bioinformatici!
-## 🛠 Skills
-- SQL
-- Python
-- Excel (già excel!)
-
-
-## Roadmap
-
-- EPICODE: Venier Michela
-
-- EPICODE: Consegne
-
-- ...
 
 
 
