@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Questo repository riguarda il mio viaggio di apprendimento della programmazione attraverso semplici progetti didattici, con l'obiettivo di arrivare a svolgere progetti più impegnativi nel prossimo futuro!
+Questo repository riguarda il mio viaggio di apprendimento della programmazione attraverso semplici progetti didattici, con l'obiettivo di arrivare a svolgere progetti più impegnativi nel prossimo futuro!
 
 Here are some ideas to get you started:
 
